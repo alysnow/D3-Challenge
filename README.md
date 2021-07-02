@@ -65,6 +65,7 @@ Bootstrap
 |2|data.csv|https://github.com/alysnow/D3-Challenge/blob/main/data/data.csv|
 |3|app.js|https://github.com/alysnow/D3-Challenge/assets/js/app.js|
 
+
 ## D3 Dabbler
 
 Using the D3 techniques, I created a scatter plot between a number of the data variables and plotted the data to represent each state with circle elements. The graphic is coded in the `app.js` file and the data is pulled in the data from `data.csv` file by using the `d3.csv` function.
@@ -97,6 +98,11 @@ The following has been applied to the chart;
 ### Scatter Plot - Smoker % versus the In Poverty %
 
 ![Smokers_v_InPovertyPercentage_ScatterPlot.PNG](images/Smokers_v_InPovertyPercentage_ScatterPlot.PNG)
+
+
+### Launched Page
+
+https://alysnow.github.io/D3-Challenge/index.html
 
 
 ## Contributor
